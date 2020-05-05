@@ -15,7 +15,7 @@
         <ul>
             <li>Non-existing AlbumId</li>
             <li>Non-existing ArtistId</li>
-            <li>If the artist entered doesn't have any albums, the count will be 0</li>
+            <li>If the artist entered doesn't have any albums, the Albumcount will be 0</li>
         </ul>
     </body>
 </html>
